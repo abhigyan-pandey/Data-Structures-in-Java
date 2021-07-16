@@ -3,10 +3,6 @@ import java.text.*;
 import java.util.*;
 import java.util.Calendar;
 
-public class assignmetweek3_4
-{
-
-}
 class logfilereadingweek3
 {
     private String ipAddress;
